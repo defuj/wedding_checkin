@@ -1,0 +1,35 @@
+{
+    "name": "Wedding Invitation",
+    "short_name": "Invitation",
+    "start_url": "https://appwo.sadigit.co.id/",
+    "display": "standalone",
+    "background_color": "#E25D5D",
+    "theme_color": "#E25D5D",
+    "description": "Wedding Invitation from Muhammad Syauqi Alsunni, S.Sos. & Muhammad Syauqi Alsunni, S.Sos.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
